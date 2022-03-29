@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Getting Started with Create React App: The GitHub Cards App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It comes from the course `React: Getting Started` by Samer Buna. Here it is a list of pending improvements to keep learning by practice:
+
+#### IMPROVEMENTS:
+ 
+1. Refactor code and split code into files to have each component into a single file
+2. Convert all Class component into Function component
+3. Manage the logic of the Input element to introduce a new profile into a single component
+4. Manage the logic of the API calls in an agent, decouple the dependency of axios library
+
+---
 
 ## Available Scripts
 
